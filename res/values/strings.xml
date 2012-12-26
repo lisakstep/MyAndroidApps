@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Go Outside</string>
+    <string name="intro_phrase">If you step outside, the 
+        thermometer will say</string>
+    <string name="temp_result">but it will feel like</string>
+  
+</resources>
